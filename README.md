@@ -1,8 +1,6 @@
 # The Unpaired !!
 
-## Below are some instructions for you to find the lonely one in your array
-
-###### Poor little guy
+### Below are some instructions for you to find the lonely one in your array
 
 - Open the "unpaired.js" file in any editor.
 
