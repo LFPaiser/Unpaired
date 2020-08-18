@@ -10,7 +10,7 @@
 
 - Opend the terminal and navigate to the folder where "unpaired.js" is located
 
-- Run 'nodejs unpaired.js' or 'npx node unpaired.js' or 'yarn node unpaired.js'
+- Run ```nodejs unpaired.js``` or `npx node unpaired.js` or ```yarn node unpaired.js```
 
 If you don't have node.js installed here are some links that can help:
 
